@@ -35,4 +35,4 @@ try:
         print 'Distance:%0.2f cm' % checkdist()
         time.sleep(1)
 except KeyboardInterrupt:
-GPIO.cleanup()
+    GPIO.cleanup()
