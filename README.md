@@ -1,4 +1,4 @@
-# Real-Time-Project-Team17
+S# Real-Time-Project-Team17
 ## Introduction
 We are the Team 17 in the Real-Time Embedded Systems Programming course at the University of Glasgow, In this assignment, we developed and designed a software and a circuit device base on a Raspberry Pi model B+ system.
 This software is designed for measure distance, then display in the screen and could notice by LED to alarm that the distance is already reaches the preset value.
@@ -16,8 +16,12 @@ The all code about this project are already shows in the 'Code' repository.
 Our video is already upload to the youtube, the link: https://www.youtube.com/watch?v=UxOVLZZUPRQ
 
 
+
+
+
+
 ## Responsibility
 
-Hardware, software and web writing -------Shengbo Zang
+Hardware, Main Software, window and Writing -------Shengbo Zang
 
-Software ----- Qi Yang
+Software ------ Qi Yang
