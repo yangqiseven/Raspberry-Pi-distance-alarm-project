@@ -12,6 +12,10 @@ We used the HC-SR04 device in this project and it is relatively simple to manufa
 The all code about this project are already shows in the 'Code' repository.
 
 
+## Video
+Our video is already upload to the youtube, the link: https://www.youtube.com/watch?v=UxOVLZZUPRQ
+
+
 ## Responsibility
 
 Hardware, software and web writing -------Shengbo Zang
