@@ -31,4 +31,11 @@ distance = round(distance, 2)
 
 print "Distance:", distance, "cm"
 
+minimum_alert_dis = 1
+maximum_alert_dis = 60
+ if distance > 60
+         print "Distancesafe:",distance - 0.5, "cm"
+         if distance >= minimum_alert_dis and distance <= maximuma_alert_dis:
+                 print "Distance Alert!"
+
 GPIO.cleanup()
