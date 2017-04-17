@@ -10,3 +10,9 @@ We used the HC-SR04 device in this project and it is relatively simple to manufa
 
 ## Code
 The all code about this project are already shows in the 'Code' repository.
+
+
+## Responsibility
+Hardware, web writing -------Shengbo Zang
+
+Software ----- Qi yang
