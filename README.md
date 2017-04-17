@@ -22,6 +22,6 @@ Our video is already upload to the youtube, the link: https://www.youtube.com/wa
 
 ## Responsibility
 
-Hardware, Main Software, window and Writing -------Shengbo Zang
+Hardware, Main Software, window and Writing -------Shengbo Zang (2275999z)
 
 Software ------ Qi Yang
